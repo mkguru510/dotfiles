@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gmk4art@gmail.com
+	name = Mohanakrishnan Guruguhanathan
